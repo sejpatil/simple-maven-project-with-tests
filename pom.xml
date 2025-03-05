@@ -24,32 +24,6 @@
     </snapshotRepository>
    </distributionManagement>
 
-    <repositories>
-     <repository>
-        <id>github</id>
-        <url>https://maven.pkg.github.com/sejpatil/simple-maven-project-with-tests</url>
-        <releases>
-            <enabled>true</enabled>
-        </releases>
-        <snapshots>
-            <enabled>true</enabled>
-        </snapshots>
-     </repository>
-    </repositories>
-
-   <pluginRepositories>
-     <pluginRepository>
-        <id>github</id>
-        <url>https://maven.pkg.github.com/sejpatil/simple-maven-project-with-tests</url>
-        <releases>
-            <enabled>true</enabled>
-        </releases>
-        <snapshots>
-            <enabled>true</enabled>
-        </snapshots>
-     </pluginRepository>
-   </pluginRepositories>
-
     <scm>
       <connection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</connection>
       <developerConnection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</developerConnection>
