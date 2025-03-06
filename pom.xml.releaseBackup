@@ -28,7 +28,7 @@
       <connection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</connection>
       <developerConnection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</developerConnection>
       <url>https://github.com/sejpatil/simple-maven-project-with-tests</url>
-      <tag>v1.0.0</tag>
+      <tag>simple-maven-project-with-tests-1.0.0</tag>
     </scm>
 
     
