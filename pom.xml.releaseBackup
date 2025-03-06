@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>test</groupId>
     <artifactId>simple-maven-project-with-tests</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <!--<version>1.0.1</version>-->
     <packaging>jar</packaging>
     <licenses>
@@ -16,11 +16,11 @@
    <distributionManagement>
     <repository>
         <id>nexus-releases</id>
-        <url>http://nexus.spreezy.in/repository/maven-releases/</url>
+        <url>https://nexus.spreezy.in/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
         <id>nexus-snapshots</id>
-        <url>http://nexus.spreezy.in/repository/maven-snapshots/</url>
+        <url>https://nexus.spreezy.in/repository/maven-snapshots/</url>
     </snapshotRepository>
    </distributionManagement>
 
@@ -28,7 +28,7 @@
       <connection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</connection>
       <developerConnection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</developerConnection>
       <url>https://github.com/sejpatil/simple-maven-project-with-tests</url>
-      <tag>HEAD</tag>
+      <tag>v1.0.0</tag>
     </scm>
 
     
