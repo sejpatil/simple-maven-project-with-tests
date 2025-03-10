@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>test</groupId>
     <artifactId>simple-maven-project-with-tests</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5-SNAPSHOT</version>
     <!--<version>1.0.1</version>-->
     <packaging>jar</packaging>
     <licenses>
@@ -28,7 +28,7 @@
       <connection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</connection>
       <developerConnection>scm:git:git@github.com:sejpatil/simple-maven-project-with-tests.git</developerConnection>
       <url>https://github.com/sejpatil/simple-maven-project-with-tests</url>
-      <tag>simple-maven-project-with-tests-1.0.4</tag>
+      <tag>simple-maven-project-with-tests-1.0.0</tag>
     </scm>
 
     
